@@ -13,6 +13,11 @@ This repository contains material related to Coursera [Natural Language Processi
 
 ### Natural Language Processing with Probabilistic Models
 
+* [Autocorrect](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/2.%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week1): Learn about autocorrect, minimum edit distance, and dynamic programming, then build a spellchecker to correct misspelled words.
+* [Part of Speech Tagging and Hidden Markov Models](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/2.%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week2): Learn about Markov chains and Hidden Markov models, then use them to create part-of-speech tags for a Wall Street Journal text corpus.
+* [Autocomplete and Language Models](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/2.%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week3): Learn about how N-gram language models work by calculating sequence probabilities, then build an autocomplete language model using a text corpus from Twitter.
+* [Word Embeddings with Neural Networks](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/2.%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week4): Learn about how word embeddings carry the semantic meaning of words, which makes them much more powerful for NLP tasks, then build a Continuous bag-of-words model to create word embeddings from Shakespeare text.
+
 ### Natural Language Processing with Sequence Models
 
 ### Natural Language Processing with Attention Models
