@@ -20,4 +20,9 @@ This repository contains material related to Coursera [Natural Language Processi
 
 ### Natural Language Processing with Sequence Models
 
+* [Neural Networks for Sentiment Analysis](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week1): Learn about neural networks for deep learning, then build a sophisticated tweet classifier that places tweets into positive or negative sentiment categories, using a deep neural network.
+* [Recurrent Neural Networks for Language Modeling](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week2): Learn about the limitations of traditional language models and see how RNNs and GRUs use sequential data for text prediction. Then build a next-word generator using a simple RNN on Shakespeare text data.
+* [LSTMs and Named Entity Recognition](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week3): Learn about how long short-term memory units (LSTMs) solve the vanishing gradient problem, and how Named Entity Recognition systems quickly extract important information from text. Then build a Named Entity Recognition system using an LSTM and data from Kaggle.
+* [Siamese Networks](https://github.com/naderabdalghani/coursera-natural-language-processing-specialization/tree/main/3.%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week4): Learn about Siamese networks, a special type of neural network made of two identical networks that are eventually merged together, then build a Siamese network that identifies question duplicates in a dataset from Quora.
+
 ### Natural Language Processing with Attention Models
